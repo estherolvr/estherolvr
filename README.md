@@ -29,6 +29,10 @@
 
 ### 📊 Estatísticas do GitHub
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=estherolvr&show_icons=true&theme=tokyonight&hide=prs" alt="Estatísticas do GitHub"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estherolvr&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+</div>
 
 ---
 
